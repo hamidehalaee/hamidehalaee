@@ -1,5 +1,4 @@
-<a href="https://app.daily.dev/hamideh"><img src="https://api.daily.dev/devcards/9ae020c9c04a4200a8a0885e7513ac69.png?r=2wo" width="400" alt="hamide alaee's Dev Card"/></a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamidehalaee&show_icons=true&theme=dark)
+
 
 ### Languages & Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
