@@ -15,3 +15,5 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/go/go.png">
 </code>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidehalaee&hide=html&&line_height=3)
+![bestgopher's github stats](https://github-readme-stats.vercel.app/api?username=hamidehalaee&show_icons=true&count_private=true&line_height=30)
