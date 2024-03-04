@@ -14,20 +14,16 @@ I'm Hamiltoon ([22](https://github.com/moepoi/moepoi/commit/c15e0dc41a58149d47f7
 <br><br>
 
 :star: Here are some projects that I'm working on:
-- [Frontier of Hell](https://github.com/moepoi/Frontier-of-Hell)
-- [Kitchen Counts](https://github.com/moepoi/Kitchen_Counts)
-- [Nekoya](https://github.com/Nekoya-Site)
-- [Easy Learn](https://github.com/Easy-Learn/App/releases/tag/v1.0.1)
-- [Neonime App](https://install.appcenter.ms/users/moepoi/apps/neonime/distribution_groups/public)
-- [Nepgear](https://t.me/NepgearBot)
-- [WhoisBot](https://t.me/WhoisBot)
-- [Moe API](https://beta.moe.team)
+- [Online Exam Taker](https://github.com/online_exam_taker)
+- [GitHub Pull Requests and Issues Searcher Telegram Bot](https://github.com/git_telegram_bot)
+- [Linked In Job Searcher BOT](https://github.com/linkedin_job_searcher)
+- [Code In Mobile](https://github.com/code_in_mobile)
 
 
-Feel free to contact me :yum:
+
+<!-- Feel free to contact me :yum:
 <br><br>
-<a href="https://t.me/moepoi" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea"></a>
+<a href="https://t.me/m" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea"></a>
 <a rel="me" href="https://moe.onl/@moepoi" target="_blank"><img src="https://img.shields.io/badge/Mastodon-%40moepoi-blueviolet"></a>
-<a href="https://linkedin.com/in/moepoi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-moepoi-informational"></a>
-<a href="mailto:moe@poi.lol"><img src="https://img.shields.io/badge/Email-moe%40poi.lol-orange"></a>
-<a href="https://moepoi.dev" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-moepoi.dev-red"></a>
+<a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-moepoi-informational"></a> -->
+
