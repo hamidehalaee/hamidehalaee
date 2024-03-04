@@ -4,7 +4,7 @@ I'm Hamiltoon ([22](https://github.com/moepoi/moepoi/commit/c15e0dc41a58149d47f7
 
 :page_with_curl: I'm currently learning:
 <br><br>
-![Python](https://img.shields.io/badge/python-%230175C2.svg?style=for-the-badge&logo=python&logoColor=white&color=white)
+![Python](https://img.shields.io/badge/python-%230175C2.svg?style=for-the-badge&logo=python&logoColor=yellow&color=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-%230175C2.svg?style=for-the-badge&logo=fastapi&logoColor=green&color=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
