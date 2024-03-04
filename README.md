@@ -4,11 +4,13 @@ I'm Hamiltoon ([22](https://github.com/moepoi/moepoi/commit/c15e0dc41a58149d47f7
 
 :page_with_curl: I'm currently learning:
 <br><br>
-![Python](https://img.shields.io/badge/python-%230175C2.svg?style=for-the-badge&logo=python&logoColor=yellow&color=white)
+![Python](https://img.shields.io/badge/python-%230175C2.svg?style=for-the-badge&logo=python&logoColor=yellow&color=green)
 ![FastAPI](https://img.shields.io/badge/fastapi-%230175C2.svg?style=for-the-badge&logo=fastapi&logoColor=green&color=white)
+![Python](https://img.shields.io/badge/node-%230175C2.svg?style=for-the-badge&logo=node&logoColor=yellow&color=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Nodejs](https://img.shields.io/badge/nodejs-%230175C2.svg?style=for-the-badge&logo=nodejs&logoColor=green&color=white)
+<br><br>
+
 :star: Here are some projects that I'm working on:
 - [Frontier of Hell](https://github.com/moepoi/Frontier-of-Hell)
 - [Kitchen Counts](https://github.com/moepoi/Kitchen_Counts)
