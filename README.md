@@ -4,11 +4,13 @@ I'm Hamiltoon ([22](https://github.com/moepoi/moepoi/commit/c15e0dc41a58149d47f7
 
 :page_with_curl: I'm currently learning:
 <br><br>
-![Python](https://img.shields.io/badge/python-%230175C2.svg?style=for-the-badge&logo=python&logoColor=yellow&color=green)
+![Python](https://img.shields.io/badge/python-%230175C2.svg?style=for-the-badge&logo=python&logoColor=yellow&color=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-%230175C2.svg?style=for-the-badge&logo=fastapi&logoColor=green&color=white)
-![Python](https://img.shields.io/badge/node-%230175C2.svg?style=for-the-badge&logo=node&logoColor=yellow&color=white)
+![Express](https://img.shields.io/badge/Express-%230175C2.svg?style=for-the-badge&logo=Express&logoColor=black&color=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 <br><br>
 
 :star: Here are some projects that I'm working on:
