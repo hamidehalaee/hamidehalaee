@@ -12,13 +12,14 @@ I'm Hamiltoon ([22](https://github.com/moepoi/moepoi/commit/c15e0dc41a58149d47f7
 ![TypeScript](https://img.shields.io/badge/typescript-%230175C2.svg?style=for-the-badge&logo=typescript&logoColor=white&color=blue)
 <br><br>
 
-:star: Here are some projects that I'm working on:
+<!-- :star: Here are some projects that I'm working on:
 - [Online Exam Taker](https://github.com/online_exam_taker)
 - [GitHub Pull Requests and Issues Searcher Telegram Bot](https://github.com/git_telegram_bot)
 - [Linked In Job Searcher BOT](https://github.com/linkedin_job_searcher)
 - [Code In Mobile](https://github.com/code_in_mobile)
-
-
+ -->
+I'm Currently Working on:  
+  - [Online Exam Taker](https://github.com/online_exam_taker) - Go - POSTGRESQL - GIN - GORM
 
 <!-- Feel free to contact me :yum:
 <br><br>
