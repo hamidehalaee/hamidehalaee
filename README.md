@@ -19,7 +19,7 @@ I'm Hamiltoon ([22](https://github.com/moepoi/moepoi/commit/c15e0dc41a58149d47f7
 - [Code In Mobile](https://github.com/code_in_mobile)
  -->
 I'm Currently Working on:  
-  - [Online Exam Taker](https://github.com/online_exam_taker) - Go - POSTGRESQL - GIN - GORM
+  - [Online Exam Taker](https://github.com/online-exam-tacker/exam_taker) - Go - POSTGRESQL - GIN - GORM
 
 <!-- Feel free to contact me :yum:
 <br><br>
