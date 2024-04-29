@@ -20,7 +20,7 @@ I'm Hamiltoon ([22](https://github.com/moepoi/moepoi/commit/c15e0dc41a58149d47f7
  -->
 I'm Currently Working on:  
   - [Online Exam Taker](https://github.com/online-exam-tacker/exam_taker) --> Go - POSTGRESQL - GIN - GORM
-  - [Job Call Telegram Bot](https://github.com/](https://github.com/teleLinked/job_call) --> Python - Playwright 
+  - [Job Call Telegram Bot](https://github.com/teleLinked/job_call) --> Python - Playwright 
 
 <!-- Feel free to contact me :yum:
 <br><br>
