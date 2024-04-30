@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=hamidehalaee&style=for-the-badge&color=blueviolet" alt="my profile views"/>
 ### Hi there 👋
 
 I'm Hamiltoon ([22](https://github.com/moepoi/moepoi/commit/c15e0dc41a58149d47f7813f145259151a2a73c7) y.o) ! :sunglasses:
