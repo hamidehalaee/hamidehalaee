@@ -19,7 +19,7 @@
 <h2> About Me:</h2>
 <br>
 Self-motivated 2 years experienced software engineer with a strong interest in contributing open source projects. Eager to explore in unknown fields, and develop useful products, and frameworks. Believer of "Programs must be written for people to read, and only incidentally for machines to execute|, and "Eliminate, Simplify, Automate And Delegate"<br>
-<br>
+<br />
 :page_with_curl: I'm currently learning:
 <br><br>
 ![Python](https://img.shields.io/badge/python-%230175C2.svg?style=for-the-badge&logo=python&logoColor=yellow&color=white)
