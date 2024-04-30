@@ -1,7 +1,24 @@
 
 ### Hi there 👋
-<img src="https://komarev.com/ghpvc/?username=hamidehalaee&style=for-the-badge&color=blueviolet" alt="my profile views"/>
-I'm Hamiltoon ([22](https://github.com/moepoi/moepoi/commit/c15e0dc41a58149d47f7813f145259151a2a73c7) y.o) ! :sunglasses:
+<div align="center" >
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/hamideh-a-yasar/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="alaee.work@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://t.me/him_mem_him_dal">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=hamidehalaee&style=for-the-badge&color=blueviolet" alt="my profile views"/>
+</div>
+<br />
+
+<h2> About Me:</h2>
+<br>
+Self-motivated 5 years experienced software engineer with a strong interest in contributing open source projects. Eager to explore in unknown fields, and develop useful products, and frameworks. Believer of "Programs must be written for people to read, and only incidentally for machines to execute|, and "Eliminate, Simplify, Automate And Delegate"<br>
 
 :page_with_curl: I'm currently learning:
 <br><br>
