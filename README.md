@@ -1,6 +1,6 @@
-<img src="https://komarev.com/ghpvc/?username=hamidehalaee&style=for-the-badge&color=blueviolet" alt="my profile views"/>
-### Hi there 👋
 
+### Hi there 👋
+<img src="https://komarev.com/ghpvc/?username=hamidehalaee&style=for-the-badge&color=blueviolet" alt="my profile views"/>
 I'm Hamiltoon ([22](https://github.com/moepoi/moepoi/commit/c15e0dc41a58149d47f7813f145259151a2a73c7) y.o) ! :sunglasses:
 
 :page_with_curl: I'm currently learning:
@@ -21,7 +21,7 @@ I'm Hamiltoon ([22](https://github.com/moepoi/moepoi/commit/c15e0dc41a58149d47f7
  -->
 I'm Currently Working on:  
   - [Online Exam Taker](https://github.com/online-exam-tacker/exam_taker) --> Go - POSTGRESQL - GIN - GORM
-  - [Job Call Telegram Bot](https://github.com/teleLinked/job_call) --> Python - Playwright 
+  - [Job Call Telegram Bot](https://github.com/teleLinked/job_call) --> web Scraping & Web crawling - Python - Playwright 
 
 <!-- Feel free to contact me :yum:
 <br><br>
