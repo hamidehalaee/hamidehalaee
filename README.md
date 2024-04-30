@@ -1,5 +1,14 @@
 
 ### Hi there 👋
+:page_with_curl: I'm currently learning:
+<br>
+![Python](https://img.shields.io/badge/python-%230175C2.svg?style=for-the-badge&logo=python&logoColor=yellow&color=white)
+![FastAPI](https://img.shields.io/badge/fastapi-%230175C2.svg?style=for-the-badge&logo=fastapi&logoColor=green&color=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-%230175C2.svg?style=for-the-badge&logo=Nodejs&logoColor=green&color=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%230175C2.svg?style=for-the-badge&logo=typescript&logoColor=white&color=blue)
+<br><br>
 <div align="center" >
   <div id="badges">
     <a href="https://www.linkedin.com/in/hamideh-a-yasar/">
@@ -20,15 +29,7 @@
 <br>
 Self-motivated 2 years experienced software engineer with a strong interest in contributing open source projects. Eager to explore in unknown fields, and develop useful products, and frameworks. Believer of "Programs must be written for people to read, and only incidentally for machines to execute|, and "Eliminate, Simplify, Automate And Delegate"<br><br>
 
-:page_with_curl: I'm currently learning:
-<br>
-![Python](https://img.shields.io/badge/python-%230175C2.svg?style=for-the-badge&logo=python&logoColor=yellow&color=white)
-![FastAPI](https://img.shields.io/badge/fastapi-%230175C2.svg?style=for-the-badge&logo=fastapi&logoColor=green&color=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-%230175C2.svg?style=for-the-badge&logo=Nodejs&logoColor=green&color=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%230175C2.svg?style=for-the-badge&logo=typescript&logoColor=white&color=blue)
-<br><br>
+
 
 <!-- :star: Here are some projects that I'm working on:
 - [Online Exam Taker](https://github.com/online_exam_taker)
