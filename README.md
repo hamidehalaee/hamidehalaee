@@ -27,7 +27,7 @@
 <br><br>
 <h2> About Me:</h2>
 <br>
-Self-motivated 2 years experienced software engineer with a strong interest in contributing open source projects. Eager to explore in unknown fields, and develop useful products, and frameworks. Believer of "Programs must be written for people to read, and only incidentally for machines to execute|, and "Eliminate, Simplify, Automate And Delegate"<br><br>
+Self-motivated 2 years experienced software engineer with a strong interest in contributing open source projects. Eager to explore in unknown fields, and develop useful products, and frameworks.<br><br>
 
 
 
@@ -38,7 +38,7 @@ Self-motivated 2 years experienced software engineer with a strong interest in c
 - [Code In Mobile](https://github.com/code_in_mobile)
  -->
 I'm Currently Working on:  
-  - [Online Exam Taker](https://github.com/online-exam-tacker/exam_taker) --> Go - POSTGRESQL - GIN - GORM
+  - [Online Exam Taker](https://github.com/online-exam-tacker/exam_taker) --> RestAPI - Go - PostgreSQL - Gin - Gorm
   - [Job Call Telegram Bot](https://github.com/teleLinked/job_call) --> web Scraping & Web crawling - Python - Playwright 
 
 <!-- Feel free to contact me :yum:
