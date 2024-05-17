@@ -21,7 +21,6 @@
 ![Python](https://img.shields.io/badge/python-%230175C2.svg?style=for-the-badge&logo=python&logoColor=yellow&color=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-%230175C2.svg?style=for-the-badge&logo=fastapi&logoColor=green&color=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-%230175C2.svg?style=for-the-badge&logo=Nodejs&logoColor=green&color=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%230175C2.svg?style=for-the-badge&logo=typescript&logoColor=white&color=blue)
 <br><br>
