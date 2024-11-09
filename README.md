@@ -38,7 +38,6 @@ Self-motivated 2 years experienced software engineer with a strong interest in c
  -->
 I'm Currently Working on:  
   - [Online Exam Taker](https://github.com/online-exam-tacker/exam_taker) --> RestAPI - Go - PostgreSQL - Gin - Gorm
-  - [Job Call Telegram Bot](https://github.com/teleLinked/job_call) --> web Scraping & Web crawling - Python - Playwright 
 
 <!-- Feel free to contact me :yum:
 <br><br>
