@@ -21,7 +21,7 @@
 ![Nodejs](https://img.shields.io/badge/Nodejs-%230175C2.svg?style=for-the-badge&logo=Nodejs&logoColor=green&color=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%230175C2.svg?style=for-the-badge&logo=typescript&logoColor=white&color=blue)
-![TypeScript](https://img.shields.io/badge/haskell)
+![TypeScript](https://img.shields.io/badge/-Haskell-000000?&logo=haskell&logoColor=magenta)
 <br><br>
 <h2> About Me:</h2>
 <br>
