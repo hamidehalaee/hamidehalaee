@@ -35,7 +35,7 @@ Self-motivated 2 years experienced software engineer with a strong interest in c
 - [Code In Mobile](https://github.com/code_in_mobile)
  -->
 I'm Currently Working on:  
-  - [golang-scalable-rate-limit]([https://github.com/hamidehalaee/golang-scalable-rate-limit])
+  - [golang-scalable-rate-limit](https://github.com/hamidehalaee/golang-scalable-rate-limit)
 
 <!-- Feel free to contact me :yum:
 <br><br>
