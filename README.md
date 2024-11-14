@@ -29,7 +29,7 @@
 <br><br>
 <h2> About Me:</h2>
 <br>
-Self-motivated 2 years experienced software engineer with a strong interest in contributing open source projects. Eager to explore in unknown fields, and develop useful products, and frameworks.<br><br>
+Self-motivated 2 years experienced software engineer with a strong interest in system design projects. Eager to explore in unknown fields, and develop useful products, and frameworks.<br><br>
 
 
 
